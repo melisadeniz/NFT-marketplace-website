@@ -1,0 +1,57 @@
+.navbar-brand {
+    font-family: Space Grotesk;    
+    font-weight: bold;
+}
+
+.navbar-inner {
+    background-color:transparent;
+}
+
+label {
+    position: relative;
+    
+  }
+  
+label:before {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    width: 15px;
+    right: 40px;    
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='15' viewBox='0 0 25 25' fill-rule='evenodd'%3E%3Cpath d='M16.036 18.455l2.404-2.405 5.586 5.587-2.404 2.404zM8.5 2C12.1 2 15 4.9 15 8.5S12.1 15 8.5 15 2 12.1 2 8.5 4.9 2 8.5 2zm0-2C3.8 0 0 3.8 0 8.5S3.8 17 8.5 17 17 13.2 17 8.5 13.2 0 8.5 0zM15 16a1 1 0 1 1 2 0 1 1 0 1 1-2 0'%3E%3C/path%3E%3C/svg%3E") center / contain no-repeat;
+  }
+
+  input {
+    padding: 10px 30px;
+    
+  }
+
+.h1 {
+    font-family: Space Grotesk;
+    font-weight: bold;
+    font-size: 35px;
+}    
+
+.h2  {
+    font-family: Space Grotesk;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+.background_image {
+	background: 
+    url(./Rectangle_11.png)top 790px left 100px no-repeat,
+    url(./Rectangle_9.png)top 790px left 345px no-repeat,
+    url(./Rectangle_2.png)top 337px left 140px no-repeat,
+    url(./Vector_8.png)top 100px left 730px no-repeat,
+    url(./Vector_4.png)top 550px left 1080px no-repeat,
+    url(./Vector_3.png)top 640px left 1240px no-repeat,
+    url(./Ellipse.png)top right no-repeat,
+    url(./Vector_11.png)top center no-repeat,
+    url(./Rectangle_3.png)top right no-repeat,
+    url(./image-left.png)top left no-repeat,
+    url(./Star_2.png)top center no-repeat;   
+}
