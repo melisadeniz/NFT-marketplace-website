@@ -43,15 +43,15 @@ label:before {
 
 .background_image {
 	background: 
-    url(./Rectangle_11.png)top 790px left 100px no-repeat,
-    url(./Rectangle_9.png)top 790px left 345px no-repeat,
-    url(./Rectangle_2.png)top 337px left 140px no-repeat,
-    url(./Vector_8.png)top 100px left 730px no-repeat,
-    url(./Vector_4.png)top 550px left 1080px no-repeat,
-    url(./Vector_3.png)top 640px left 1240px no-repeat,
-    url(./Ellipse.png)top right no-repeat,
-    url(./Vector_11.png)top center no-repeat,
-    url(./Rectangle_3.png)top right no-repeat,
-    url(./image-left.png)top left no-repeat,
-    url(./Star_2.png)top center no-repeat;   
+    url(images/Rectangle_11.png)top 790px left 100px no-repeat,
+    url(images/Rectangle_9.png)top 790px left 345px no-repeat,
+    url(images/Rectangle_2.png)top 337px left 140px no-repeat,
+    url(images/Vector_8.png)top 100px left 730px no-repeat,
+    url(images/Vector_4.png)top 550px left 1080px no-repeat,
+    url(images/Vector_3.png)top 640px left 1240px no-repeat,
+    url(images/Ellipse.png)top right no-repeat,
+    url(images/Vector_11.png)top center no-repeat,
+    url(images/Rectangle_3.png)top right no-repeat,
+    url(images/image-left.png)top left no-repeat,
+    url(images/Star_2.png)top center no-repeat;   
 }
