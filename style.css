@@ -3,10 +3,6 @@
     font-weight: bold;
 }
 
-.navbar-inner {
-    background-color:transparent;
-}
-
 label {
     position: relative;
     
@@ -39,7 +35,6 @@ label:before {
     font-weight: bold;
     font-size: 25px;
 }
-
 
 .background_image {
 	background: 
